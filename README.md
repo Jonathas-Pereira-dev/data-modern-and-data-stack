@@ -21,3 +21,5 @@ Este projeto implementa uma arquitetura moderna de dados (Modern Data Stack) uti
 
 ### **Linguagem Principal**
 - **Python 3.11+**
+
+![imagem](pics\foto.png)
