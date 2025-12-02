@@ -22,4 +22,4 @@ Este projeto implementa uma arquitetura moderna de dados (Modern Data Stack) uti
 ### **Linguagem Principal**
 - **Python 3.11+**
 
-![imagem](pics\foto.png)
+![pics](https://github.com/Jonathas-Pereira-dev/data-modern-and-data-stack/blob/main/pics/foto.jpg)
